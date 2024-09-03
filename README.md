@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh K R
 - 👀 I’m interested in AWS and Devops
-- 🌱 I’m currently learning AWS and Devops tools
+- 🌱 I’m currently working as Devops Engineer at Bell Integrations.
 - 💞️ I’m looking to collaborate on Good working Environment
 - 📫 How to reach me ...yogeshkr167@gmail.com
 
